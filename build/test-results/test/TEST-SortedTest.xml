@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortedTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-22T20:38:53" hostname="LAPTOP-MV41I1T1" time="0.119">
+  <properties/>
+  <testcase name="defaultValueArrayTest()" classname="SortedTest" time="0.053"/>
+  <testcase name="negativeArrayTesT()" classname="SortedTest" time="0.008"/>
+  <testcase name="combinedArrayTest()" classname="SortedTest" time="0.005"/>
+  <testcase name="correctArrayTest()" classname="SortedTest" time="0.007"/>
+  <testcase name="positiveArrayTest()" classname="SortedTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
